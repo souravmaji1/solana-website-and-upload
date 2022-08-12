@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat:wght@500&family=Courgette&family=Great+Vibes&family=Kalam:wght@300&family=PT+Sans&family=Sansita+Swashed:wght@500&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat:wght@500&family=Courgette&family=Great+Vibes&family=Kalam:wght@300;400&family=PT+Sans&family=Sansita+Swashed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+/* Customize your main colors in :root variables */
+:root {
+  --main-background-color: #343A50;
+  --card-background-color: black;
+  --countdown-background-color: #433765;
+  --main-text-color:#F7F6F4;
+  --title-text-color:#4E44CE;
+}
+
+body{
+/*  background-color:var(--main-background-color);*/
+  background: url("img/p.jpeg");
+  background-size: cover;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 1.1em;
+}
+
+h2, p{
+  color: var(--main-text-color);
+  
+}
+
+h3{
+font-weight: normal;
+}
+.MuiButton-label{
+  color: white;
+}
+h2{
+  word-spacing: 10px;
+  
+  font-size: 50px;
+  text-shadow: 1px 4px 9px rgb(81, 11, 243),
+  1px 5px 91px rgb(81, 11, 243),
+  1px 6px 91px rgb(81, 11, 243),
+  1px 7px 19px rgb(81, 11, 243),
+  1px 8px 19px rgb(81, 11, 243),
+  1px 9px 19px rgb(81, 11, 243),
+  1px 10px 19px rgb(81, 11, 243),
+  1px 11px 19px rgb(81, 11, 243),
+  1px 12px 19px rgb(81, 11, 243),
+  1px 13px 19px rgb(81, 11, 243),
+  0 0 60px rgb(241, 240, 245);
+
+ 
+ font-family: 'Josefin Sans', sans-serif;
+               
+}
+.iYWJQt{
+  margin-left: 50px;
+}
+.sc-dQoVA{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  font-size: 96px;
+  font-family: 'Josefin Sans', sans-serif;
+  word-spacing: 10px;
+  
+  
+  
+  text-shadow: 1px 4px 9px rgb(81, 11, 243),
+  1px 5px 91px rgb(81, 11, 243),
+  1px 6px 91px rgb(81, 11, 243),
+  1px 7px 19px rgb(81, 11, 243),
+  1px 8px 19px rgb(81, 11, 243),
+  1px 9px 19px rgb(81, 11, 243),
+  1px 10px 19px rgb(81, 11, 243),
+  1px 11px 19px rgb(81, 11, 243),
+  1px 12px 19px rgb(81, 11, 243),
+  1px 13px 19px rgb(81, 11, 243),
+  0 0 60px rgb(241, 240, 245);
+}
+.sc-dQoVA span{
+  color: #f7eef5;
+  
+  border-radius: 50%;
+  word-spacing: 10px;
+  
+  
+  
+  text-shadow: 1px 4px 9px rgb(245, 9, 127),
+  1px 5px 91px rgb(245, 9, 127),
+  1px 6px 91px rgb(245, 9, 127),
+  1px 7px 19px rgb(245, 9, 127),
+  1px 8px 19px rgb(245, 9, 127),
+  1px 9px 19px rgb(245, 9, 127),
+  1px 10px 19px rgb(245, 9, 127),
+  1px 11px 19px rgb(245, 9, 127),
+  1px 12px 19px rgb(245, 9, 127),
+  1px 13px 19px rgb(245, 9, 127),
+  0 0 60px rgb(241, 240, 245);
+  
+}
+
+
+.MuiPaper{
+  border-radius: 20px;
+}
+h1{
+  font-size: 155px;
+  color: #f7eef5;
+  text-shadow: 1px 4px 9px rgb(245, 9, 127),
+  1px 5px 91px rgb(245, 9, 127),
+  1px 6px 91px rgb(245, 9, 127),
+  1px 7px 19px rgb(245, 9, 127),
+  1px 8px 19px rgb(245, 9, 127),
+  1px 9px 19px rgb(245, 9, 127),
+  1px 10px 19px rgb(224, 220, 222),
+  1px 11px 19px rgb(224, 220, 222),
+  1px 12px 19px rgb(224, 220, 222),
+  1px 13px 19px rgb(224, 220, 222),
+  0 0 60px rgb(241, 240, 245);
+  
+}
+
+.sc-dQoVA{
+  filter: drop-shadow(2px 6px 20px blue);
+}
